@@ -1,0 +1,20 @@
+⭐ Singleton Pattern — Short Explanation
+Definition:
+
+Singleton ensures only one object (instance) of a class exists in the entire program.
+
+Why we use it?
+
+When exactly one instance is needed (database connection, logger, printer manager, configuration settings).
+
+Key Points:
+
+Private constructor
+
+One static object inside the class
+
+Public static method to return that single object
+
+Example Idea:
+
+Only one WeatherStationControlCenter should exist → Singleton.
