@@ -1,5 +1,4 @@
-⭐ Observer Pattern — Short Explanation
-Definition:
+⭐ Observer Pattern —
 
 Observer pattern allows one-to-many notification.
 When one object (Observable/Subject) changes, it automatically notifies all registered objects (Observers).
