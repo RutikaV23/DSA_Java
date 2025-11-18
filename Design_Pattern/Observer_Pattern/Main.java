@@ -6,8 +6,8 @@ public class Main {
 	{
 		WeatherStation w1 = new WeatherStation();
 		
-		Moblie m1 = new Moblie();
-		Moblie m2 = new Moblie();
+		Mobile m1 = new Mobile();
+		Mobile m2 = new Mobile();
 		
 		w1.registered(m1);
 		w1.registered(m2);
@@ -21,3 +21,4 @@ public class Main {
 	}
 
 }
+
