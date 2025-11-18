@@ -1,6 +1,6 @@
 package observableInterface;
 
-public class Moblie implements observer
+public class Mobile implements observer
 {
 	float temp1;
 	
@@ -22,3 +22,4 @@ public class Moblie implements observer
 		System.out.println("Mobile Updated Temperature: " + newtemp);	
 	}	
 }
+
